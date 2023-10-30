@@ -1,4 +1,4 @@
-
+![logo](https://github.com/anishthakur3dec/Anish-Thakur/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Anish Kumar Thakur</h1>
 <h3 align="center">Final Year B-tech Student</h3>
 
