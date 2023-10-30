@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning **Data Science,Machine Learning,Java,Python**
 
 - 📫 How to reach me **anishthakur3dec@gmail.com**
+  
+- 💬 Ask me about **Java,Sql,Data Structure**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1oxrDA7ARZ99rmMNVqEZAvV002Q0LYBwM](https://drive.google.com/drive/u/0/folders/1oxrDA7ARZ99rmMNVqEZAvV002Q0LYBwM)
 
