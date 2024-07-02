@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anish Kumar Thakur</h1>
 <h3 align="center">Final Year B-tech Student</h3>
 
-- 🌱 I’m currently learning **Data Science,Machine Learning,Java,Python**
+- 🌱 I’m currently learning **Data Science,Java,Python and JavaScript**
 
 - 📫 How to reach me **anishthakur3dec@gmail.com**
   
