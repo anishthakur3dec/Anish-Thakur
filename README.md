@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science,Java,Python and JavaScript**
 
-- 📫 How to reach me **anishthakur3dec@gmail.com**
+- 📫 How to reach me **anishthakur8252@gmail.com**
   
 - 💬 Ask me about **Java,Sql,Data Structure**
 
